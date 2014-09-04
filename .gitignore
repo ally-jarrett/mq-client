@@ -28,3 +28,5 @@ local.properties
 
 # Apples DS Store File 
 .DS_Store
+
+.gitignore
